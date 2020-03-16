@@ -1,2 +1,1 @@
-# scrapy_demo
-Exploring Web Crawling with Scrapy
+# Exploring Web Crawling with Scrapy
